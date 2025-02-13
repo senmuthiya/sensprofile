@@ -68,8 +68,8 @@
   }*/
 
 ul {
-    display: block; /* Change from table to block */
+    /*display: block; /* Change from table to block */
     margin-left: 0; /* Align to the left */
-    padding-left: 20px; /* Ensure bullets align properly */
+    padding-left: 20px; *//* Ensure bullets align properly */
     text-align: left;
 }
